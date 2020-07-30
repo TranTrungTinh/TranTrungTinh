@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Spring Knowledge Global!
 - 🌱 I’m currently learning GraphQL, Next.js, Vue 3, testing
-- 💬 Ask me about JavaScript, Typescript, Front end development, SPA, SSR, Webpack and building cool sh*t
+- 💬 Ask me about JavaScript, TypeScript, Front end development, SPA, SSR, Webpack and building cool sh*t
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a landing page in one day!
 
