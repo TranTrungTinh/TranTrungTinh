@@ -3,7 +3,7 @@
 ## I'm a Web Developer!
 
 - 🔭 I’m currently working on Spring Knowledge Global!
-- 🌱 I’m currently learning GraphQL, Next.js, Vue 3, testing
+- 🌱 I’m currently learning GraphQL, Next.js, Vue 3, JAMStack and testing
 - 💬 Ask me about JavaScript, TypeScript, Front end development, SPA, SSR, Webpack and building cool sh*t
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a landing page in one day!
