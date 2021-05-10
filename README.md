@@ -12,8 +12,8 @@
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
+👔 [linkedin][linkedin] **|** 
+💼 [portfolio][portfolio]
 
 [twitter]: https://twitter.com/TinhTra22876228
 [youtube]: https://www.youtube.com/channel/UC5MSn_b6V0i3dAT_VzPtdFQ
