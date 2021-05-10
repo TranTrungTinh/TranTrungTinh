@@ -19,3 +19,4 @@
 [youtube]: https://www.youtube.com/channel/UC5MSn_b6V0i3dAT_VzPtdFQ
 [instagram]: https://instagram.com/tinh2t
 [linkedin]: https://www.linkedin.com/in/tr%E1%BA%A7n-trung-t%C3%ADnh-b16027102/
+[portfolio]: https://tinh2t.vercel.app/
