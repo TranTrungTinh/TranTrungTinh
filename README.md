@@ -10,24 +10,19 @@
 
 <h5 align="center">
   <a href="https://tinh2t.vercel.app/">
-    <img alt="blog" src="https://img.shields.io/badge/trantrungtinh.me-41b883?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=41b883" />
+    <img alt="blog" src="https://img.shields.io/badge/trantrungtinh-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAABECAMAAAAPzWOAAAAAkFBMVEUAAAAAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffQAffMAffQAffQAffQAffQAffQAffQAffQAffQAffQxzC4fAAAAL3RSTlMA/DYxBfgSntx4SfTLXFtE06FqOQ98dVYt7Oe+cCIb49nIxLevppyOhWI+KQqVUCi/R2MAAAGrSURBVFjD7ZTJgoIwEESRzVFHBwE33Pd1pv//78YmQMQUydVD6tR0xUeFjnGsrKysPlludMF9IgrivIyjvoHRIuogY09PTbi6PouBicFrFa24H3HlEWtgYtCP6pwr+J30lEQw/lTH7xHRrLaq35CDcnWBFbMxdoS8HqbgvUhlT6P1KJ+mjRRPw+iyM+SqRhk0MpB2bCVcoSxmRjWQTa01DUQW+D2ghuitIstVdm5EIjBUSHK+UkuRZQFmi3Rhc8SVsiOZxQu0DH/Gbqr0y9/1AQPP94gcr/q6bl71mIE1Z/8OLS8rKJRr0shYsr1DjjwZzohY87QJchSzxzpQcZYXxPoK8bKUzbWDtSXWicuCArOIoDEem2C0xdNYk4XnGzwg47vci9BFUHx15YSNXxhEMA5voSlSs0TcX6Ecu1oO3Y4S+TK4l1O924GUPTddHcNMWcmLBDF4LmbKmTtjHcNM8QNxP2sZmLJels8LON8wUhiAkpWUDM033CCGOun45SLZvy+5AQbIMk9fLpIbuLYNDD67W9P/98gMvVy/rJL43HbhVeRYWVlZfbL+AYDTYIkq6zVLAAAAAElFTkSuQmCC" />
   </a>
-<!--   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/tinh2t/">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
-  </a> -->
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-trung-t%C3%ADnh-b16027102/">
-    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=f0f0f0" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&labelColor=ffffff&logoColor=0a66c2" />
   </a>
 </h5>
 
-<div>
-  <a href="/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrungTinh&text_color=586069&layout=compact&hide_border=true&count_private=true&include_all_commits=true" />
+<p align="center">
+<!--   <a href="#">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=TranTrungTinh&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+  </a> -->
+  <a href="#">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=TranTrungTinh&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
   </a>
-
-  <a href="/" align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=TranTrungTinh&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues,contribs&hide_border=true&include_all_commits=true" />
-  </a>
-</div>
+</p>
