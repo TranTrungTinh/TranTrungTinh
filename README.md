@@ -12,10 +12,10 @@
   <a href="https://tinh2t.vercel.app/">
     <img alt="blog" src="https://img.shields.io/badge/trantrungtinh.me-41b883?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=41b883" />
   </a>
-  <span>&nbsp;</span>
+<!--   <span>&nbsp;</span>
   <a href="https://www.instagram.com/tinh2t/">
     <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
-  </a>
+  </a> -->
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-trung-t%C3%ADnh-b16027102/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=f0f0f0" />
