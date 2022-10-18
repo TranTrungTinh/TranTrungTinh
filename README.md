@@ -19,10 +19,7 @@
 </h5>
 
 <p align="center">
-<!--   <a href="#">
-    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=TranTrungTinh&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
-  </a> -->
   <a href="#">
-    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=TranTrungTinh&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=TranTrungTinh&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=846&svg.height=188">
   </a>
 </p>
