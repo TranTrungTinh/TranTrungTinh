@@ -1,11 +1,14 @@
-<h2 align="center">Hi there, 👋 I'm Tinh! 😎</h2>
+<h2 align="center">
+  <a href="#"><img src="./assets/img/wave.svg" height="28" width="28" alt="👋" title="👋" /></a>
+  <span>Hi there,  I'm Tinh! 😎</span>
+</h2>
 
 <h5>
   <p>- 🔭 I’m currently working on Spring Knowledge Global!</p>
-  <p>- 🌱 I’m currently learning AWS, Svelte, Next.js, Vue 3, Astro and testing</p>
+  <p>- 🌱 I'm passionate <span><img src="./assets/img/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="24" width="24"></span> AWS, Svelte, Next.js, Nuxt.js, Vue, Astro and testing</p>
   <p>- 💬 Ask me about JavaScript, TypeScript, Front end development, SPA, SSR, PWA, AMP, Web performance, Nitro & Vite and building cool sh*t</p>
   <p>- 😄 Pronouns: he/him</p>
-  <p>- ⚡ Fun fact: I can solve a landing page in one day!</p>
+  <!-- <p>- ⚡ Fun fact: I can solve a landing page in one day!</p> -->
 </h5>
 
 <p align="center">
